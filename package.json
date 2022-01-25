@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  },
+  "name": "hello-vuepress-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
