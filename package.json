@@ -4,6 +4,12 @@
   },
   "name": "hello-vuepress-next",
   "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:crguezl/hello-vuepress-next.git",
+  "author": "Casiano Rodriguez-Leon <crguezl@ull.edu.es>"
 }
